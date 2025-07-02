@@ -1,0 +1,94 @@
+h1 {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(155, 205, 250);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-decoration-line: underline;
+}
+.style1 {
+  text-align: center;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+div h2 {
+  font-size: 1.5rem;
+  color: rgb(155, 205, 250);
+  font-family: Georgia;
+  font-style: italic;
+}
+#p1 {
+  font-size: 1rem;
+  color: rgb(155, 205, 250);
+  font-family: Georgia;
+  font-style: italic;
+}
+.box {
+  display: flex;
+  border: solid 2px rgb(173, 202, 255);
+  border-style: dotted;
+  border-radius: 5px;
+  margin-bottom: 3%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.boxr {
+  display: flex;
+  border: solid 2px rgb(173, 202, 255);
+  border-style: dotted;
+  border-radius: 5px;
+  margin-bottom: 3%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  justify-content: space-between;
+}
+
+
+p{
+  font-family: Georgia;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: rgb(155, 205, 250);
+  font-family: Georgia;
+  font-style: italic;
+}
+
+span{
+  font-family: Georgia;
+}
+
+h5{
+  font-family: Georgia;
+}
+
+.sqrl{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.sqrr{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.d-flex {
+    font-family: Georgia ;
+}
